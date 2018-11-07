@@ -1,6 +1,6 @@
 # Modeling-Cell
 
-The Qualitative and quantitative modeling of the cell project answers the following objectives :
+The "Qualitative and quantitative modeling of the cell" project answers the following objectives :
 
 Construction of a co-expression network
 
